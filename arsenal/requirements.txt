@@ -1,7 +1,7 @@
 mmh3==2.5.1
 jsbeautifier
 idna==2.9
-requests==2.23.0
+requests==2.31.0
 requests_file
 argparse
 jsbeautifier
